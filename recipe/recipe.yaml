@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.1"
+  version: "1.0.2"
 
 package:
   name: pystac-ext-sat
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-sat/pystac_ext_sat-${{ version }}.tar.gz
-  sha256: aa7bce65192335d08b45b21f76cf66380626209c90b8ea5d817de82392c898e8
+  sha256: 68cc7bbe84c2ecc5f4d3b6eca8f39b0bc622275fdcf6b9276bc016d7670c30e3
 
 build:
   number: 0
